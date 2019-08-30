@@ -14,7 +14,7 @@ This project is a small reference implementation to access sharepoint online via
   
 ## Help
 You have to change some constants. You get the values from the Azure Application Registration. Have a look at the upper paragraph "Preliminary work"
-    SP_CLIENTID     = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx';
-    SP_CLIENTSECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-    SP_DIRECTORYID  = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx';
-    SP_HOSTNAME     = 'yourcompany.sharepoint.com';
+   - SP_CLIENTID     = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx';
+   - SP_CLIENTSECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+   - SP_DIRECTORYID  = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx';
+   - SP_HOSTNAME     = 'yourcompany.sharepoint.com';
