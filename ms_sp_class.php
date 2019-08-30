@@ -8,7 +8,7 @@
  * 
  * @filesource 
  * @version 0.0.2
- * @author Daniel Jansen <daniel.jansen@genfeld.de>
+ * @author Daniel Jansen
  * @copyright 2019 Fischer Akkumulatorentechnik GmbH
  * 
  */
